@@ -15,7 +15,7 @@ local pi = math.pi
 local rad_180 = pi
 local rad_90 = pi / 2
 
-local flag_list = {"trump", "anticommie2", "letsgobrandon", "america", "dixie", "comeand", "mississipi", "starsandbars", "police", "kylerittenhouse", "georgia", "anticommie", "comeand2" "powmia" "trump2" "comeand"}
+local flag_list = {"trump", "anticommie2", "letsgobrandon", "america", "dixie", "comeand", "mississipi", "starsandbars", "police", "kylerittenhouse", "georgia", "anticommie", "comeand2", "powmia", "trump2", "comeand",}
 
 minetest.register_entity( "patriot_flags:wavingflag", {
 	initial_properties = {
